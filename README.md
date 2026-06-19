@@ -18,20 +18,21 @@ I'm a programming student from Brazil with a passion for RPGs, Video Games and T
 
 ## Contact
 🐙 GitHub: @Gabriel-Eredin
+
 📧 Email: eredin.dev2007ff@gmail.com
 
 ## Interests
 
 🎮 Video Games
 
-💻 Softwares
+💻 Software
 
 📚 Continuous learning 
 
 ## Fun Fact
 Before pursuing software development, I worked as a professional musician and guitar teacher.
 I played guitar and bass in an emo band called Malorian, performing original songs and recording in the studio. I also worked as a hired guitarist for the artists N4T! and Daron, contributing to live performances, and even songwriting, and guitar solos in Daron.
-After some time in that carrer i quit to pursue my own path and dream.
+After some time in that career i quit to pursue my own path and dream.
 
 <!--
 **Gabriel-Eredin/Gabriel-Eredin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
