@@ -2,7 +2,8 @@
 
 I'm a programming student from Brazil with a passion for RPGs, Video Games and Technology.
 
-<img width="1536" height="1024" alt="ChatGPT Image 19 de jun  de 2026, 03_23_35 (1)" src="https://github.com/user-attachments/assets/bb278d08-25d6-4ba4-bf35-1ff19f037940" />
+<img width="1536" height="1024" alt="pixel art gpt final" src="https://github.com/user-attachments/assets/2a1f6408-9406-462e-bc55-b58679a6a30e" />
+
 
 ## Currently Learning
 - JavaScript
