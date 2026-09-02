@@ -9,6 +9,7 @@ I'm a programming student from Brazil with a passion for RPGs, Video Games and T
 - JavaScript
 - Programming Logic
 - Git and GitHub
+- Web Development
 
 ## Goals
 - Improve my software development skills
