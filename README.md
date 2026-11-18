@@ -26,6 +26,8 @@ I'm a programming student from Brazil with a passion for RPGs, Video Games and T
 
 📧 Email: eredin.dev2007ff@gmail.com
 
+💼 LinkedIn: https://www.linkedin.com/in/gabriel-oliveira-9380a2429/
+
 ## Interests
 
 🎮 Video Games
