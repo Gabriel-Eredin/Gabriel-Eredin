@@ -5,11 +5,15 @@ I'm a programming student from Brazil with a passion for RPGs, Video Games and T
 <img width="1536" height="1024" alt="pixel art gpt final" src="https://github.com/user-attachments/assets/2a1f6408-9406-462e-bc55-b58679a6a30e" />
 
 
-## Currently Learning
-- JavaScript
+## Skills
+- Basic JavaScript
 - Programming Logic
 - Git and GitHub
-- Web Development
+- HTML
+
+## Currently Learning
+- CSS
+- Advanced JavaScript
 
 ## Goals
 - Improve my software development skills
